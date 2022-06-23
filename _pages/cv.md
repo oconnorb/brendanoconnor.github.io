@@ -25,7 +25,7 @@ Professional experience
 * 2019 - present: Faculty Assistant
   * University of Maryland, College Park
   * Advisors: Eleonora Troja and Brad Cenko
-* 2019 - present: Contractor
+* 2019 - present: Research Assisant
   * NASA Goddard Space Flight Center (GSFC)
   * Advisors: Eleonora Troja and Brad Cenko
 * 2018 - present: Graduate Research Assistant
