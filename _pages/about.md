@@ -59,7 +59,7 @@ More Information
 
 [![NASA ADS](/brendanoconnor.github.io/files/ads_logo_small.png)](https://ui.adsabs.harvard.edu/search/filter_aff_facet_hier_fq_aff=AND&filter_aff_facet_hier_fq_aff=aff_facet_hier%3A%220%2FGWU%22&filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_aff%7D&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_aff=(aff_facet_hier%3A%220%2FGWU%22)&fq_database=(database%3A%22astronomy%22)&p_=0&q=%20author%3A%22O'Connor%2C%20B%22&sort=date%20desc%2C%20bibcode%20desc)
 
-**Here is a Lowell Discovery Telescope image of [M51](https://en.wikipedia.org/wiki/Whirlpool_Galaxy)**
+**Here is a Lowell Discovery Telescope image that I obtained of [M51](https://en.wikipedia.org/wiki/Whirlpool_Galaxy)**
 
-<img src="/brendanoconnor.github.io/files/M51.png" width="800">
+<img src="/brendanoconnor.github.io/files/M51.png" width="900">
 
