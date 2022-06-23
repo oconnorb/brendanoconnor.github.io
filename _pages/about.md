@@ -48,7 +48,7 @@ In addition to my study of extragalactic sources, I am a lead member of the Swif
 
 Below is a mosaic of half of the DGPS footprint in the 0.3-10 keV energy range:
 
-<img src=/brendanoconnor.github.io/files/DGPS_FB_mosaic_left_div.png width="800">
+<img src="/brendanoconnor.github.io/files/DGPS_FB_mosaic_left_div.png" width="900">
 
 More Information
 ======
