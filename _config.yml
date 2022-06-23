@@ -84,7 +84,7 @@ author:
   avatar           : "/brendanoconnor.github.io/images/vantine_linkedin_2461666.png"
   bio              : "PhD Student at GWU"
   location         : "Washington, DC"
-  employer         : "The George Washington University"
+  employer         : # "The George Washington University"
   pubmed           :
   googlescholar    :
   email            : "oconnorb@gwmail.gwu.edu" #how do add second email and ADS link?
