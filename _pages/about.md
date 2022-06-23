@@ -48,7 +48,7 @@ In addition to my study of extragalactic sources, I am a lead member of the Swif
 
 Below is a mosaic of half of the DGPS footprint in the 0.3-10 keV energy range:
 
-![DGPS Mosaic]("/brendanoconnor.github.io/files/DGPS_FB_mosaic_left_div.png")
+<img src=/brendanoconnor.github.io/files/DGPS_FB_mosaic_left_div.png width="800">
 
 More Information
 ======
@@ -61,7 +61,5 @@ More Information
 
 **Here is a Lowell Discovery Telescope image of [M51](https://en.wikipedia.org/wiki/Whirlpool_Galaxy)**
 
-![LDT image of M51]("/brendanoconnor.github.io/files/M51.png")
-
-<img src="/brendanoconnor.github.io/files/M51.png" width="600">
+<img src="/brendanoconnor.github.io/files/M51.png" width="800">
 
