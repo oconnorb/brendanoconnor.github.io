@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -20,7 +20,7 @@ Education
 * MPhil in Physics, The George Washington University, 2020
 * PhD in Physics, The George Washington University, 2017 - 2023 (expected)
 
-Professional experience
+Professional Experience
 ======
 * 2022 - present: Activate Journal Referee
   * The Astrophysical Journal (ApJ)
@@ -35,4 +35,11 @@ Professional experience
   * Advisor: Chryssa Kouveliotou
 * 2017 - 2019: Graduate Teaching Assistant
   * The George Washington University
+
+Professional Memberships
+======
+* The Swift Deep Galactic Plane Survey
+* The Gamow Explorer Science Team
+* The MeerKAT Galactic Plane Survey
+
   
