@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Brendan O'Connor"
+title                    : "Brendan's Webpage"
 title_separator          : "-"
 name                     : &name "Brendan O'Connor"
-description              : &description "personal description"
+description              : &description "6th year PhD Student at GWU"
 url                      : https://oconnorb.github.io/brendanoconnor.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "oconnorb/brendanoconnor.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  name             : "Brendan O'Connor"
+  avatar           : "https://brendanoconnor.github.io/images/vantine_linkedin_2461666.jpg"
+  bio              : "PhD Student at GWU"
+  location         : "Washington, DC"
+  employer         : "The George Washington University"
+  pubmed           :
+  googlescholar    :
+  email            : "oconnorb@gwmail.gwu.edu" #how do add second email and ADS link?
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "oconnorb"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/brendan-o-connor-b35138113/"
+  orcid            : "https://orcid.org/0000-0002-9700-0036"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :

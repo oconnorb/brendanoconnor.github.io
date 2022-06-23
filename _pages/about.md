@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Brendan M. O'Connor"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,56 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a 6th year graduate student in the Department of Physics at The George Washington University (GWU). My research is in the field of time domain and transient astrophysics. In particular, I am interested in the formation and evolution of high energy transients and their progenitors.
 
-A data-driven personal website
+Extragalactic Astronomy
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Short Gamma-ray Bursts 
+------
 
-Getting started
+I have been involved in the study of short gamma-ray bursts (sGRBs) and their environments since January 2018, when I began working with [Dr. Chryssa Kouveliotou](https://physics.columbian.gwu.edu/chryssa-kouveliotou) and [Dr. Paz Beniamini](https://pazbeniamini.wixsite.com/pazbeniamini) in my second semester at GWU. Our work focused on the early X-ray lightcurves of short GRBs, and the relation between the X-ray afterglow peak and the density of the environment surrounding the merger site. We identified that sGRBs occured in denser environments than previously thought [(O'Connor et al. 2020)](https://academic.oup.com/mnras/article/495/4/4782/5846046).
+
+In June 2019, I began working with [Dr. Eleonora Troja](https://eleonoratroja.wordpress.com/) and [Dr. Brad Cenko](https://asd.gsfc.nasa.gov/Brad.Cenko/Brad_Cenkos_NASA_HomePage/Home.html) at NASA Goddard Space Flight Center (GSFC). At this point, my study of sGRBs evolved, and the focus turned towards observational astronomy. In particular, I focused on the host galaxy environments of sGRBs using deep ground- and space-based imaging from the [4-m Lowell Discovery Telescope](https://lowell.edu/research/telescopes-and-facilities/ldt/), the 8-m Gemini North and South Telescopes, the Keck Observatory, and the Hubble Space Telescope (HST). 
+
+Kilonovae
+------
+
+In addition to the environments of sGRBs, I am interested in the production of r-process elements emanating from the merger of binary neutron stars (BNS). The decay of these r-process elements leads to a radioactively powered transient, known as a kilonova or macronova. Kilonovae represent the conclusive electromagnetic signature of a BNS merger, and remain a primary focus of modern astrophysics. I will be involved in follow-up of the electromagnetic counterparts to gravitational waves from binary neutron star mergers (e.g. short gamma-ray bursts and kilonovae) in the LIGO O4 Observing Run with the goal of identifying these elusive transients.
+
+A sample of my previous work on kilonovae can be found here: <br>
+[Ricci et al. 2020](https://academic.oup.com/mnras/article/500/2/1708/5936666) <br>
+[O'Connor et al. 2021](https://academic.oup.com/mnras/article/502/1/1279/6102539) <br>
+[Bruni et al. 2021](https://academic.oup.com/mnrasl/article/505/1/L41/6271321) <br>
+[Chase et al. 2022](https://iopscience.iop.org/article/10.3847/1538-4357/ac3d25) <br>
+
+
+Fast Radio Bursts 
+------
+
+I am also interested in the progenitors of fast radio bursts (FRBs). The environment and formation channels of FRB-emitting sources remains an open question, and a source of great interest. I was involved in the study of the host galaxy and environment of [FRB 20201124A](https://www.aanda.org/articles/aa/full_html/2021/12/aa41903-21/aa41903-21.html). We identified that the persistent radio source, which was localized to the viscinity of the FRB, was related to star formation in the host galaxy, as opposed to the FRB progenitor (e.g., FRBs 20121102A and 20190520B).
+
+Galactic Astronomy
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
+The Swift Deep Galactic Plane Survey
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+In addition to my study of extragalactic sources, I am a lead member of the Swift Deep Galactic Plane Survey (DGPS; PI: Chryssa Kouveliotou) which is conducting a systematic survey of 40 sq. deg of the Galactic Plane to search for X-ray transients. The survey is focused on identifying a variety of sources, including high mass X-ray binaries (HMXBs), cataclysmic variables (CVs), and magnetars. I recently led the study of a Be X-ray binary (BeXRB) identified through the survey [(O'Connor et al. 2022)](https://iopscience.iop.org/article/10.3847/1538-4357/ac5032), and current work is focused on the identification of a number of other transient sources.
 
-**Markdown generator**
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+Below is a mosaic of half of the DGPS footprint in the 0.3-10 keV energy range:
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+<img src="https://github.com/oconnorb/brendanoconnor.github.io/files/8962738/DGPS_FB_mosaic_left_div.pdf" width="1000">
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More Information
+======
+
+[Here is a PDF of my CV](https://brendanoconnor.github.io/files/CV.pdf)
+
+**Here is a link to my publications on NASA/ADS**
+[![NASA ADS](https://brendanoconnor.github.io/files/ads_logo_small.png)](https://ui.adsabs.harvard.edu/search/filter_aff_facet_hier_fq_aff=AND&filter_aff_facet_hier_fq_aff=aff_facet_hier%3A%220%2FGWU%22&filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_aff%7D&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_aff=(aff_facet_hier%3A%220%2FGWU%22)&fq_database=(database%3A%22astronomy%22)&p_=0&q=%20author%3A%22O'Connor%2C%20B%22&sort=date%20desc%2C%20bibcode%20desc)
+
+
+
