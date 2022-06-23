@@ -48,16 +48,16 @@ In addition to my study of extragalactic sources, I am a lead member of the Swif
 
 Below is a mosaic of half of the DGPS footprint in the 0.3-10 keV energy range:
 
-<img src="https://github.com/oconnorb/brendanoconnor.github.io/files/DGPS_FB_mosaic_left_div.pdf" width="1000">
+<img src="brendanoconnor.github.io/files/DGPS_FB_mosaic_left_div.pdf" width="1000">
 
 
 More Information
 ======
 
-[Here is a PDF of my CV](https://github.com/oconnorb/brendanoconnor.github.io/files/CV.pdf)
+[Here is a PDF of my CV](brendanoconnor.github.io/files/CV.pdf)
 
 **Here is a link to my publications on NASA/ADS**
-[![NASA ADS](https://github.com/oconnorb/brendanoconnor.github.io/files/ads_logo_small.png)](https://ui.adsabs.harvard.edu/search/filter_aff_facet_hier_fq_aff=AND&filter_aff_facet_hier_fq_aff=aff_facet_hier%3A%220%2FGWU%22&filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_aff%7D&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_aff=(aff_facet_hier%3A%220%2FGWU%22)&fq_database=(database%3A%22astronomy%22)&p_=0&q=%20author%3A%22O'Connor%2C%20B%22&sort=date%20desc%2C%20bibcode%20desc)
+[![NASA ADS](brendanoconnor.github.io/files/ads_logo_small.png)](https://ui.adsabs.harvard.edu/search/filter_aff_facet_hier_fq_aff=AND&filter_aff_facet_hier_fq_aff=aff_facet_hier%3A%220%2FGWU%22&filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_aff%7D&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_aff=(aff_facet_hier%3A%220%2FGWU%22)&fq_database=(database%3A%22astronomy%22)&p_=0&q=%20author%3A%22O'Connor%2C%20B%22&sort=date%20desc%2C%20bibcode%20desc)
 
 
 
