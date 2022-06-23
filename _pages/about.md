@@ -43,7 +43,7 @@ Galactic Astronomy
 The Swift Deep Galactic Plane Survey
 ------
 
-In addition to my study of extragalactic sources, I am a lead member of the Swift Deep Galactic Plane Survey (DGPS; PI: Chryssa Kouveliotou) which is conducting a systematic survey of 40 sq. deg of the Galactic Plane to search for X-ray transients. The survey is focused on identifying a variety of sources, including high mass X-ray binaries (HMXBs), cataclysmic variables (CVs), and magnetars. I recently led the study of a Be X-ray binary (BeXRB) identified through the survey [(O'Connor et al. 2022)](https://iopscience.iop.org/article/10.3847/1538-4357/ac5032), and current work is focused on the identification of a number of other transient sources.
+In addition to my study of extragalactic sources, I am a member (since September 2019) of the Swift Deep Galactic Plane Survey (DGPS; PI: Chryssa Kouveliotou) which is conducting a systematic survey of 40 sq. deg of the Galactic Plane to search for X-ray transients. The survey is focused on identifying a variety of sources, including high mass X-ray binaries (HMXBs), cataclysmic variables (CVs), and magnetars. I recently led the study of a Be X-ray binary (BeXRB) identified through the survey [(O'Connor et al. 2022)](https://iopscience.iop.org/article/10.3847/1538-4357/ac5032), and current work is focused on the identification of a number of other transient sources.
 
 
 Below is a mosaic of half of the DGPS footprint in the 0.3-10 keV energy range:
