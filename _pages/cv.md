@@ -11,6 +11,8 @@ redirect_from:
 
 [Here is a PDF of my CV](/brendanoconnor.github.io/files/CV.pdf)
 
+**Contact email: oconnorb@gwmail.gwu.edu or oconnorb@umd.edu**
+
 Education
 ======
 * BS in Physics, Union College, 2017
