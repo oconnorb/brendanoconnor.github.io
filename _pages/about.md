@@ -31,7 +31,7 @@ A sample of my previous work on kilonovae can be found here: <br>
 [Bruni et al. 2021](https://academic.oup.com/mnrasl/article/505/1/L41/6271321) - Late-time radio observations of the short GRB 200522A: constraints on the magnetar model <br>
 [Chase et al. 2022](https://iopscience.iop.org/article/10.3847/1538-4357/ac3d25) - Kilonova Detectability with Wide-field Instruments <br>
 
-**Finding chart of GRB 200522A showing the identification of a red transient located near the host galaxy's nucleus in deep HST imaging**
+**Finding chart of GRB 200522A showing the identification of a red transient located near the host galaxy's nucleus in deep Gemini and HST imaging (see, [O'Connor et al. 2021](https://academic.oup.com/mnras/article/502/1/1279/6102539)):**
 
 <img src="/brendanoconnor.github.io/files/GRB200522A_FC.png" width="900">
 
@@ -41,7 +41,7 @@ Fast Radio Bursts
 
 I am also interested in the progenitors of fast radio bursts (FRBs). The environment and formation channels of FRB-emitting sources remains an open question, and a source of great interest. I was involved in the study of the host galaxy and environment of [FRB 20201124A](https://www.aanda.org/articles/aa/full_html/2021/12/aa41903-21/aa41903-21.html). We identified that the persistent radio source, which was localized to the viscinity of the FRB, was related to star formation in the host galaxy, as opposed to the FRB progenitor (e.g., FRB 20121102A/FRB 20190520B).
 
-**Localization of FRB 20201124A to a star-forming region of its host galaxy**
+**Localization of FRB 20201124A to a star-forming region of its host galaxy using Chandra and the VLA (see [Piro et al. 2021](https://www.aanda.org/articles/aa/full_html/2021/12/aa41903-21/aa41903-21.html)):**
 
 <img src="/brendanoconnor.github.io/files/FRB20201124A_FC.png" width="900">
 
@@ -51,7 +51,7 @@ Galactic Astronomy
 The Swift Deep Galactic Plane Survey
 ------
 
-In addition to my study of extragalactic sources, I am a member (since September 2019) of the Swift Deep Galactic Plane Survey (DGPS; PI: Chryssa Kouveliotou) which is conducting a systematic survey of 40 sq. deg of the Galactic Plane to search for X-ray transients. The survey is focused on identifying a variety of sources, including high mass X-ray binaries (HMXBs), cataclysmic variables (CVs), and magnetars. I recently led the study of a Be X-ray binary (BeXRB) identified through the survey [(O'Connor et al. 2022)](https://iopscience.iop.org/article/10.3847/1538-4357/ac5032), and current work is focused on the identification of a number of other transient sources.
+In addition to my study of extragalactic sources, I am a member (since September 2019) of the Swift Deep Galactic Plane Survey (DGPS; PI: Chryssa Kouveliotou) which is conducting a systematic survey of 40 sq. deg of the Galactic Plane to search for X-ray transients. The Survey is focused on identifying a variety of sources, including high mass X-ray binaries (HMXBs), cataclysmic variables (CVs), and magnetars. I recently led the study of a Be X-ray binary (BeXRB) identified through the DGPS [(O'Connor et al. 2022)](https://iopscience.iop.org/article/10.3847/1538-4357/ac5032). Current work is underway to classify a number of other transient sources discovered through the Survey.
 
 
 Below is a mosaic of half of the DGPS footprint in the 0.3-10 keV energy range:
@@ -67,7 +67,7 @@ More Information
 
 [![NASA ADS](/brendanoconnor.github.io/files/ads_logo_small.png)](https://ui.adsabs.harvard.edu/search/filter_aff_facet_hier_fq_aff=AND&filter_aff_facet_hier_fq_aff=aff_facet_hier%3A%220%2FGWU%22&filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_aff%7D&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_aff=(aff_facet_hier%3A%220%2FGWU%22)&fq_database=(database%3A%22astronomy%22)&p_=0&q=%20author%3A%22O'Connor%2C%20B%22&sort=date%20desc%2C%20bibcode%20desc)
 
-**Here is a Lowell Discovery Telescope image that I obtained of [M51](https://en.wikipedia.org/wiki/Whirlpool_Galaxy)**
+**Here is a Lowell Discovery Telescope image that I obtained of [M51](https://en.wikipedia.org/wiki/Whirlpool_Galaxy):**
 
 <img src="/brendanoconnor.github.io/files/M51.png" width="900">
 
