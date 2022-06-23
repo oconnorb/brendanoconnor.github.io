@@ -22,7 +22,7 @@ Education
 
 Professional Experience
 ======
-* 2022 - present: Activate Journal Referee
+* 2022 - present: Journal Referee
   * The Astrophysical Journal (ApJ)
 * 2019 - present: Faculty Assistant
   * University of Maryland, College Park
