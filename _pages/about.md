@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 6th year graduate student in the Department of Physics at The George Washington University (GWU). My research is in the field of time domain and transient astrophysics. In particular, I am interested in the formation and evolution of high energy transients and their progenitors. Below I outline a few research interests and hilights.
+I am a 6th year graduate student in the Department of Physics at The George Washington University (GWU). My research is in the field of time domain and transient astrophysics. In particular, I am interested in the formation and evolution of high energy transients and their progenitors. Below I outline a few research interests and highlights.
 
 Extragalactic Astronomy
 ======
@@ -20,17 +20,17 @@ I have been involved in the study of short gamma-ray bursts (sGRBs) and their en
 
 In June 2019, I began working with [Dr. Eleonora Troja](https://eleonoratroja.wordpress.com/) and [Dr. Brad Cenko](https://asd.gsfc.nasa.gov/Brad.Cenko/Brad_Cenkos_NASA_HomePage/Home.html) at NASA Goddard Space Flight Center (GSFC). At this point, my study of sGRBs evolved, and the focus turned towards observational astronomy. In particular, I began studying the host galaxy environments of sGRBs using deep ground- and space-based imaging and spectroscopy from the [4-m Lowell Discovery Telescope](https://lowell.edu/research/telescopes-and-facilities/ldt/), the 8-m Gemini North and South Telescopes, the Keck Observatory, and the Hubble Space Telescope (HST). In the future, we plan to use the recently launched James Webb Space Telescope (JWST) to set stronger constraints on "hostless" sGRBs.
 
-**Finding chart of GRB 130912A. Deep HST image revealed a candidate host galaxy nearby to the GRB's optical localization. This galaxy was undetected in previous ground-based Keck imaging (see, [O'Connor et al. 2022](https://arxiv.org/pdf/2204.09059.pdf) for details):**
+**Finding chart of GRB 130912A. Deep HST image revealed a candidate host galaxy nearby to the GRB's optical localization. This galaxy was undetected in previous ground-based Keck imaging (see [O'Connor et al. 2022](https://arxiv.org/pdf/2204.09059.pdf) for details):**
 
 <p align="center">
-  <img width="800" alt="GRB130912A_FC" src="https://user-images.githubusercontent.com/56123351/175308231-145ad3a8-5269-4f2b-b8a2-0a1ef4a18536.png">
+  <img width="900" alt="GRB130912A_FC" src="https://user-images.githubusercontent.com/56123351/175308231-145ad3a8-5269-4f2b-b8a2-0a1ef4a18536.png">
 </p>
 
 
 Kilonovae
 ------
 
-In addition to the environments of sGRBs, I am interested in the production of r-process elements emanating from the merger of binary neutron stars (BNS). The decay of these r-process elements leads to a radioactively powered transient, known as a kilonova or macronova. Kilonovae represent the conclusive electromagnetic signature of a BNS merger, and remain a primary focus of modern astrophysics. I will be involved in follow-up of the electromagnetic counterparts to gravitational waves (GWs) from NS-NS and NS-BH mergers in the [LIGO O4 Observing Run](https://observing.docs.ligo.org/plan/#timeline) with the goal of identifying these elusive transients.
+In addition to the environments of sGRBs, I am interested in the production of r-process elements emanating from the merger of binary neutron stars (BNS). The decay of these r-process elements leads to a radioactively powered transient, known as a kilonova or macronova. Kilonovae represent the conclusive electromagnetic signature of a BNS merger, and remain a primary focus of modern astrophysics. I will be involved in follow-up of the electromagnetic counterparts to gravitational waves (GWs) from NS-NS and NS-BH mergers in the [LIGO, Virgo, and KAGRA O4 Observing Run](https://observing.docs.ligo.org/plan/#timeline) with the goal of identifying these elusive transients.
 
 A sample of my previous work related to kilonovae can be found here: <br>
 [Ricci et al. 2020](https://academic.oup.com/mnras/article/500/2/1708/5936666) - Searching for the radio remnants of short-duration gamma-ray bursts <br>
@@ -66,7 +66,7 @@ In addition to my study of extragalactic sources, I am a member (since September
 **Phase-I coverage of the DGPS (Credit: NASA):**
 
 <p align="center">
-  <img width="673" alt="DGPS_MW_Fig" src="https://user-images.githubusercontent.com/56123351/175305865-04e901a9-21e5-4f5c-b228-70833d357649.png">
+  <img width="700" alt="DGPS_MW_Fig" src="https://user-images.githubusercontent.com/56123351/175305865-04e901a9-21e5-4f5c-b228-70833d357649.png">
 </p>
 
 **Below is a mosaic of half of the DGPS footprint at negative Galactic longitudes in the 0.3-10 keV energy range:**
@@ -82,9 +82,9 @@ More Information
 
 **Here is a link to my publications on NASA/ADS:**
 
-<p align="center">
-  [![NASA ADS](/brendanoconnor.github.io/files/ads_logo_small.png)](https://ui.adsabs.harvard.edu/search/filter_aff_facet_hier_fq_aff=AND&filter_aff_facet_hier_fq_aff=aff_facet_hier%3A%220%2FGWU%22&filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_aff%7D&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_aff=(aff_facet_hier%3A%220%2FGWU%22)&fq_database=(database%3A%22astronomy%22)&p_=0&q=%20author%3A%22O'Connor%2C%20B%22&sort=date%20desc%2C%20bibcode%20desc)
-</p>
+
+[![NASA ADS](/brendanoconnor.github.io/files/ads_logo_small.png)](https://ui.adsabs.harvard.edu/search/filter_aff_facet_hier_fq_aff=AND&filter_aff_facet_hier_fq_aff=aff_facet_hier%3A%220%2FGWU%22&filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_aff%7D&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_aff=(aff_facet_hier%3A%220%2FGWU%22)&fq_database=(database%3A%22astronomy%22)&p_=0&q=%20author%3A%22O'Connor%2C%20B%22&sort=date%20desc%2C%20bibcode%20desc)
+
 
 **Here is a Lowell Discovery Telescope image that I obtained of [M51](https://en.wikipedia.org/wiki/Whirlpool_Galaxy):**
 
