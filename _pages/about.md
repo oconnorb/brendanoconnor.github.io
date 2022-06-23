@@ -31,11 +31,19 @@ A sample of my previous work on kilonovae can be found here: <br>
 [Bruni et al. 2021](https://academic.oup.com/mnrasl/article/505/1/L41/6271321) - Late-time radio observations of the short GRB 200522A: constraints on the magnetar model <br>
 [Chase et al. 2022](https://iopscience.iop.org/article/10.3847/1538-4357/ac3d25) - Kilonova Detectability with Wide-field Instruments <br>
 
+**Finding chart of GRB 200522A showing the identification of a red transient located near the host galaxy's nucleus in deep HST imaging**
+
+<img src="/brendanoconnor.github.io/files/GRB200522A_FC.png" width="900">
+
 
 Fast Radio Bursts 
 ------
 
 I am also interested in the progenitors of fast radio bursts (FRBs). The environment and formation channels of FRB-emitting sources remains an open question, and a source of great interest. I was involved in the study of the host galaxy and environment of [FRB 20201124A](https://www.aanda.org/articles/aa/full_html/2021/12/aa41903-21/aa41903-21.html). We identified that the persistent radio source, which was localized to the viscinity of the FRB, was related to star formation in the host galaxy, as opposed to the FRB progenitor (e.g., FRB 20121102A/FRB 20190520B).
+
+**Localization of FRB 20201124A to a star-forming region of its host galaxy**
+
+<img src="/brendanoconnor.github.io/files/FRB20201124A_FC.png" width="900">
 
 Galactic Astronomy
 ======
