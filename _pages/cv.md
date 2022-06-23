@@ -9,51 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
+[Here is a PDF of my CV](/brendanoconnor.github.io/files/CV.pdf)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BS in Physics, Union College, 2017
+* MS in Physics, The George Washington University, 2020
+* MPhil in Physics, The George Washington University, 2020
+* PhD in Physics, The George Washington University, 2017 - 2023 (expected)
 
-Work experience
+Professional experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022 - present: Activate Journal Referee
+  * The Astrophysical Journal (ApJ)
+* 2019 - present: Faculty Assistant
+  * University of Maryland, College Park
+  * Advisors: Eleonora Troja and Brad Cenko
+* 2019 - present: Contractor
+  * NASA Goddard Space Flight Center (GSFC)
+  * Advisors: Eleonora Troja and Brad Cenko
+* 2018 - present: Graduate Research Assistant
+  * The George Washington University
+  * Advisor: Chryssa Kouveliotou
+* 2017 - 2019: Graduate Teaching Assistant
+  * The George Washington University
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
