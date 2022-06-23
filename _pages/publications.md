@@ -14,7 +14,7 @@ author_profile: true
 First Author
 ======
 
-* **O’Connor, B.**, Troja, E., Dichiara, S., Beniamini, P., et al. 2022. &quot;A deep survey of short GRB host galaxies over $z\sim0−2$: implications for offsets, redshifts, and environments&quot;. MNRAS, In press.
+* **O’Connor, B.**, Troja, E., Dichiara, S., Beniamini, P., et al. 2022. &quot;A deep survey of short GRB host galaxies over $z\sim0−2$: implications for offsets, redshifts, and environments&quot;. MNRAS, Submitted.
       
 * **O’Connor, B.**, Gogus, E., Huppenkothen, D., Kouveliotou, C., et al. 2021. &quot;Identification of an X-Ray Pulsar in the BeXRB System IGR J18219$-$1347&quot;. ApJ, 927, 139 
 
