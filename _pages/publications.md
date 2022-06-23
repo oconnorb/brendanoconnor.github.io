@@ -14,11 +14,11 @@ author_profile: true
 First Author
 ======
 
-* **O’Connor, B.**, Troja, E., Dichiara, S., Beniamini, P., et al. 2022. &quot;A deep survey of short GRB host galaxies over $z\sim0−2$: implications for offsets, redshifts, and environments&quot;. MNRAS, Submitted.
+* **O’Connor, B.**, Troja, E., Dichiara, S., Beniamini, P., et al. 2022. &quot;A deep survey of short GRB host galaxies over $z\sim0−2$: implications for offsets, redshifts, and environments&quot;. MNRAS, Submitted. [(Link)](https://arxiv.org/abs/2204.09059)
       
-* **O’Connor, B.**, Gogus, E., Huppenkothen, D., Kouveliotou, C., et al. 2021. &quot;Identification of an X-Ray Pulsar in the BeXRB System IGR J18219$-$1347&quot;. ApJ, 927, 139 
+* **O’Connor, B.**, Gogus, E., Huppenkothen, D., Kouveliotou, C., et al. 2021. &quot;Identification of an X-Ray Pulsar in the BeXRB System IGR J18219$-$1347&quot;. ApJ, 927, 139 [(Link)](https://iopscience.iop.org/article/10.3847/1538-4357/ac5032)
 
-* **O’Connor, B.**, Troja, E., Dichiara, S., Chase, E. A., et al. 2021. &quot;A tale of two mergers: constraints on kilonova detection in two short GRBs at $z\sim0.5$&quot;. MNRAS, 502, 1279
+* **O’Connor, B.**, Troja, E., Dichiara, S., Chase, E. A., et al. 2021. &quot;A tale of two mergers: constraints on kilonova detection in two short GRBs at $z\sim0.5$&quot;. MNRAS, 502, 1279 [(Link)](https://academic.oup.com/mnras/article/502/1/1279/6102539)
 
 * **O’Connor, B.**, Beniamini, P., & Kouveliotou, C. 2020. &quot;Constraints on the circumburst environments of short gamma-ray bursts&quot;. MNRAS, 495, 4782 [(Link)](https://academic.oup.com/mnras/article/495/4/4782/5846046)
 
