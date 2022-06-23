@@ -35,7 +35,7 @@ A sample of my previous work on kilonovae can be found here: <br>
 Fast Radio Bursts 
 ------
 
-I am also interested in the progenitors of fast radio bursts (FRBs). The environment and formation channels of FRB-emitting sources remains an open question, and a source of great interest. I was involved in the study of the host galaxy and environment of [FRB 20201124A](https://www.aanda.org/articles/aa/full_html/2021/12/aa41903-21/aa41903-21.html). We identified that the persistent radio source, which was localized to the viscinity of the FRB, was related to star formation in the host galaxy, as opposed to the FRB progenitor (e.g., FRBs 20121102A and 20190520B).
+I am also interested in the progenitors of fast radio bursts (FRBs). The environment and formation channels of FRB-emitting sources remains an open question, and a source of great interest. I was involved in the study of the host galaxy and environment of [FRB 20201124A](https://www.aanda.org/articles/aa/full_html/2021/12/aa41903-21/aa41903-21.html). We identified that the persistent radio source, which was localized to the viscinity of the FRB, was related to star formation in the host galaxy, as opposed to the FRB progenitor (e.g., FRB 20121102A and FRB 20190520B).
 
 Galactic Astronomy
 ======
