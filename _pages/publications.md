@@ -16,46 +16,46 @@ author_profile: true
 First Author
 ======
 
-* **O’Connor, B.**, Troja, E., Dichiara, S., Beniamini, P., et al. 2022. &quot;A deep survey of short GRB host galaxies over $z\sim0−2$: implications for offsets, redshifts, and environments&quot;. MNRAS, Submitted. [(Link)](https://arxiv.org/abs/2204.09059)
+1. **O’Connor, B.**, Troja, E., Dichiara, S., Beniamini, P., et al. 2022. &quot;A deep survey of short GRB host galaxies over $z\sim0−2$: implications for offsets, redshifts, and environments&quot;. MNRAS, Submitted. [(Link)](https://arxiv.org/abs/2204.09059)
       
-* **O’Connor, B.**, Gogus, E., Huppenkothen, D., Kouveliotou, C., et al. 2021. &quot;Identification of an X-Ray Pulsar in the BeXRB System IGR J18219$-$1347&quot;. ApJ, 927, 139 [(Link)](https://iopscience.iop.org/article/10.3847/1538-4357/ac5032)
+2. **O’Connor, B.**, Gogus, E., Huppenkothen, D., Kouveliotou, C., et al. 2021. &quot;Identification of an X-Ray Pulsar in the BeXRB System IGR J18219$-$1347&quot;. ApJ, 927, 139 [(Link)](https://iopscience.iop.org/article/10.3847/1538-4357/ac5032)
 
-* **O’Connor, B.**, Troja, E., Dichiara, S., Chase, E. A., et al. 2021. &quot;A tale of two mergers: constraints on kilonova detection in two short GRBs at $z\sim0.5$&quot;. MNRAS, 502, 1279 [(Link)](https://academic.oup.com/mnras/article/502/1/1279/6102539)
+3. **O’Connor, B.**, Troja, E., Dichiara, S., Chase, E. A., et al. 2021. &quot;A tale of two mergers: constraints on kilonova detection in two short GRBs at $z\sim0.5$&quot;. MNRAS, 502, 1279 [(Link)](https://academic.oup.com/mnras/article/502/1/1279/6102539)
 
-* **O’Connor, B.**, Beniamini, P., & Kouveliotou, C. 2020. &quot;Constraints on the circumburst environments of short gamma-ray bursts&quot;. MNRAS, 495, 4782 [(Link)](https://academic.oup.com/mnras/article/495/4/4782/5846046)
+4. **O’Connor, B.**, Beniamini, P., & Kouveliotou, C. 2020. &quot;Constraints on the circumburst environments of short gamma-ray bursts&quot;. MNRAS, 495, 4782 [(Link)](https://academic.oup.com/mnras/article/495/4/4782/5846046)
 
 Co-Author
 ======
 
-* Chase, E. A., **O'Connor, B.**, Fryer, C. L., Troja, E., et al., 2022. &quot;Kilonova Detectability with Wide-field Instruments&quot;. ApJ, 927, 163. 
+5. Chase, E. A., **O'Connor, B.**, Fryer, C. L., Troja, E., et al., 2022. &quot;Kilonova Detectability with Wide-field Instruments&quot;. ApJ, 927, 163. 
     
-* Troja, E., **O'Connor, B.**, Ryan, G., Piro, L., et al., 2022. &quot;Accurate flux calibration of GW170817: is the X-ray counterpart on the rise?&quot;. MNRAS, 510, 1902.
+6. Troja, E., **O'Connor, B.**, Ryan, G., Piro, L., et al., 2022. &quot;Accurate flux calibration of GW170817: is the X-ray counterpart on the rise?&quot;. MNRAS, 510, 1902.
 
-* Bruni, G., **O'Connor, B.**, Matsumoto, T., Troja, E., et al., 2021. &quot;Late-time radio observations of the short GRB 200522A: constraints on the magnetar model&quot;. MNRAS, 505, L41. 
+7. Bruni, G., **O'Connor, B.**, Matsumoto, T., Troja, E., et al., 2021. &quot;Late-time radio observations of the short GRB 200522A: constraints on the magnetar model&quot;. MNRAS, 505, L41. 
 
-* Troja, E., Fryer, C. L., **O'Connor, B.**, Ryan, G., et al., 2022. &quot;A long gamma-ray burst from a stellar merger in the nearby Universe&quot. Submitted.  
+8. Troja, E., Fryer, C. L., **O'Connor, B.**, Ryan, G., et al., 2022. &quot;A long gamma-ray burst from a stellar merger in the nearby Universe&quot. Submitted.  
 
-* Dichiara, S., Troja, E., **O'Connor, B.**, Marshall, F. E., et al., 2020. &quot;Short gamma-ray bursts within 200 Mpc&quot;. MNRAS, 492, 5011.
+9. Dichiara, S., Troja, E., **O'Connor, B.**, Marshall, F. E., et al., 2020. &quot;Short gamma-ray bursts within 200 Mpc&quot;. MNRAS, 492, 5011.
 
-* Piro, L., Bruni, G., Troja, E., **O'Connor, B.**, et al., 2021. &quot;The fast radio burst FRB 20201124A in a star-forming region: Constraints to the progenitor and multiwavelength counterparts&quot;. A&A, 656, L15.
+10. Piro, L., Bruni, G., Troja, E., **O'Connor, B.**, et al., 2021. &quot;The fast radio burst FRB 20201124A in a star-forming region: Constraints to the progenitor and multiwavelength counterparts&quot;. A&A, 656, L15.
 
-* Dichiara, S., Troja, E., Beniamini, P., **O'Connor, B.**, et al., 2021. &quot;Evidence of Extended Emission in GRB 181123B and Other High-redshift Short GRBs&quot;. ApJL, 911, L28.
+11. Dichiara, S., Troja, E., Beniamini, P., **O'Connor, B.**, et al., 2021. &quot;Evidence of Extended Emission in GRB 181123B and Other High-redshift Short GRBs&quot;. ApJL, 911, L28.
 
-* Becerra, R. L., Troja, E., Watson, A., **O’Connor, B.**, et al., 2022.  &quot;Deciphering the unusual stellar progenitor of GRB~210704A&quot. In preparation.
+12 Becerra, R. L., Troja, E., Watson, A., **O’Connor, B.**, et al., 2022.  &quot;Deciphering the unusual stellar progenitor of GRB~210704A&quot. In preparation.
 
-* Ricci, R., Troja, E., Bruni, G., Matsumoto, T., Piro, L., **O'Connor, B.**, et al., 2021. &quot;Searching for the radio remnants of short-duration gamma-ray bursts&quot;. MNRAS, 500, 1708.
+13. Ricci, R., Troja, E., Bruni, G., Matsumoto, T., Piro, L., **O'Connor, B.**, et al., 2021. &quot;Searching for the radio remnants of short-duration gamma-ray bursts&quot;. MNRAS, 500, 1708.
 
-* Enoto, T., Ng, M., Hu, C.-P., Guver, T., Jaisawal G. K., **O'Connor, B.**, et al., 2021. &quot;A Month of Monitoring the New Magnetar Swift J1555.2$-$5402 during an X-Ray Outburst&quot;. ApJL, 920, L4.
+14. Enoto, T., Ng, M., Hu, C.-P., Guver, T., Jaisawal G. K., **O'Connor, B.**, et al., 2021. &quot;A Month of Monitoring the New Magnetar Swift J1555.2$-$5402 during an X-Ray Outburst&quot;. ApJL, 920, L4.
 
-* Troja, E., van Eerten, H., Zhang, B., Ryan, G., Piro, L., Ricci, R., **O'Connor, B.**, et al., 2020. &quot;A thousand days after the merger: Continued X-ray emission from GW170817&quot;. MNRAS, 498, 5643.
+15. Troja, E., van Eerten, H., Zhang, B., Ryan, G., Piro, L., Ricci, R., **O'Connor, B.**, et al., 2020. &quot;A thousand days after the merger: Continued X-ray emission from GW170817&quot;. MNRAS, 498, 5643.
     
-* Dichiara S., Troja E., Lipunov V., Ricci R., et al., 2022. &quot;The early afterglow of GRB 190829A&quot;. MNRAS, 512, 2337.
+16. Dichiara S., Troja E., Lipunov V., Ricci R., et al., 2022. &quot;The early afterglow of GRB 190829A&quot;. MNRAS, 512, 2337.
     
-* Dichiara, S., Becerra, R. L., Chase, E. A., Troja, E., et al., 2021. &quot;Constraints on the Electromagnetic Counterpart of the Neutron-star-Black-hole Merger GW200115&quot;. ApJL, 923, L32.
+17. Dichiara, S., Becerra, R. L., Chase, E. A., Troja, E., et al., 2021. &quot;Constraints on the Electromagnetic Counterpart of the Neutron-star-Black-hole Merger GW200115&quot;. ApJL, 923, L32.
     
-* Gorgone, N. M., Woudt, P. A., Buckley, D., Mukai, K., et al., 2021. &quot;Swift/XRT Deep Galactic Plane Survey Discovery of a New Intermediate Polar Cataclysmic Variable, Swift J183920.1$-$045350&quot;. ApJ, 923, 243. 
+18. Gorgone, N. M., Woudt, P. A., Buckley, D., Mukai, K., et al., 2021. &quot;Swift/XRT Deep Galactic Plane Survey Discovery of a New Intermediate Polar Cataclysmic Variable, Swift J183920.1$-$045350&quot;. ApJ, 923, 243. 
     
-* Champion, D., Cognard, I., Cruces, M., Desvignes, G., et al., 2020. &quot;High-cadence observations and variable spin behaviour of magnetar Swift J1818.0-1607 after its outburst&quot;. MNRAS, 498, 6044.
+19. Champion, D., Cognard, I., Cruces, M., Desvignes, G., et al., 2020. &quot;High-cadence observations and variable spin behaviour of magnetar Swift J1818.0-1607 after its outburst&quot;. MNRAS, 498, 6044.
     
 
     
