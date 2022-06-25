@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+Below I outline a few research interests and highlights.
+
 Extragalactic Astronomy
 ======
 
