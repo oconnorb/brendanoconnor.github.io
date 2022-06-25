@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+Here is a list of my invited and contributed presentations.
+
 Invited Talks
 ======
 * May 2022. Shedding light on hostless short GRBs with large aperture telescopes. Invited talk (45m) at Transient Astronomy Meeting (TAM). University of Maryland, College Park. Presented virtually.
