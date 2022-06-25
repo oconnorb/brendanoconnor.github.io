@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+**As of June 25, 2022:** I have completed 4 first-author, 3 second-author, and 2 third-author publications. I have authored or co-authored a total of 19 publications which have a total of 237 citations. My h-index is 9. In addition to these refereed publications I have led 16 GCN Circulars and Astronomer's Telegrams.
+
 **My publications can also be accessed through NASA/ADS:**
 
 
