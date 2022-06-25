@@ -20,12 +20,6 @@ I have been involved in the study of short gamma-ray bursts (sGRBs) and their en
 
 In June 2019, I began working with [Dr. Eleonora Troja](https://eleonoratroja.wordpress.com/), [Dr. Brad Cenko](https://asd.gsfc.nasa.gov/Brad.Cenko/Brad_Cenkos_NASA_HomePage/Home.html), and [Dr. Simone Dichiara](https://science.psu.edu/astro/people/sbd5667) at NASA Goddard Space Flight Center (GSFC). At this point, my study of sGRBs evolved, and my focus turned towards observational astronomy. In particular, I began studying the host galaxy environments of sGRBs using deep ground- and space-based imaging and spectroscopy from the [4-m Lowell Discovery Telescope](https://lowell.edu/research/telescopes-and-facilities/ldt/), the 8-m Gemini North and South Telescopes, the Keck Observatory, and the Hubble Space Telescope (HST). This led to the publication of a catalog of sGRB host galaxies [(O'Connor et al. 2022)](https://arxiv.org/abs/2204.09059), including a significant fraction (~30%) without a conclusive host galaxy association. These events are labeled "hostless", and deep optical and infrared observations are required to discern whether these GRBs occured within a faint high redshift galaxy or truly originated outside the confines of a galaxy and within the intergalactic medium. In the future, I plan to use the recently launched James Webb Space Telescope (JWST) to set stronger constraints on "hostless" sGRBs.
 
-**Finding chart of GRB 130912A. Deep HST image revealed a candidate host galaxy nearby to the GRB's optical localization. This galaxy was undetected in previous ground-based Keck imaging (see [O'Connor et al. 2022](https://arxiv.org/pdf/2204.09059.pdf) for details):**
-
-<p align="center">
-  <img width="900" alt="GRB130912A_FC" src="https://user-images.githubusercontent.com/56123351/175308231-145ad3a8-5269-4f2b-b8a2-0a1ef4a18536.png">
-</p>
-
 
 Kilonovae
 ------
