@@ -41,7 +41,7 @@ Co-Author
 
 11. Dichiara, S., Troja, E., Beniamini, P., **O'Connor, B.**, et al., 2021. &quot;Evidence of Extended Emission in GRB 181123B and Other High-redshift Short GRBs&quot;. ApJL, 911, L28.
 
-12 Becerra, R. L., Troja, E., Watson, A., **O’Connor, B.**, et al., 2022.  &quot;Deciphering the unusual stellar progenitor of GRB~210704A&quot. In preparation.
+12. Becerra, R. L., Troja, E., Watson, A., **O’Connor, B.**, et al., 2022.  &quot;Deciphering the unusual stellar progenitor of GRB~210704A&quot. In preparation.
 
 13. Ricci, R., Troja, E., Bruni, G., Matsumoto, T., Piro, L., **O'Connor, B.**, et al., 2021. &quot;Searching for the radio remnants of short-duration gamma-ray bursts&quot;. MNRAS, 500, 1708.
 
