@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Brendan M. O'Connor"
+title: "Brendan M. O'Connor - Astronomer"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
