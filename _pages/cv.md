@@ -39,7 +39,7 @@ Professional Experience
 Accepted Telescope Proposals
 ======
 
-**As of June 25, 2022:** I have been principal investigator of 8 accepted telescope proposals. I am Co-I and observer on another 17 accepted proposals.  
+**As of June 25, 2022:** I have been principal investigator of 8 accepted telescope proposals. I am Co-I of another 14 accepted proposals.  
 
 These proposals have been PI or Co-I have been awarded time on the following telescopes and observatories: Swift, Fermi, XMM-Newton, NICER, NuSTAR, Chandra, Hubble Space Telescope, Lowell Discovery Telescope, Gemini, Keck, GTC, ATCA, VLA, uGMRT, e-MERLIN, EVN 
 
