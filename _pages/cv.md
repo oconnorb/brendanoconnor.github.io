@@ -36,10 +36,32 @@ Professional Experience
 * 2017 - 2019: Graduate Teaching Assistant
   * The George Washington University
 
+Accepted Telescope Proposals
+======
+
+**As of June 25, 2022:** ...
+
+As PI:
+------
+
+As Co-I:
+------
+
 Professional Memberships
 ======
-* The Swift Deep Galactic Plane Survey
-* The Gamow Explorer Science Team
-* The MeerKAT Galactic Plane Survey
+* 2020 -  present: The Swift Deep Galactic Plane Survey
+* 2020 -  present: The Gamow Explorer Science Team
+* 2020 -  present: The MeerKAT Galactic Plane Survey
 
+Mentoring Experience
+======
+
+* Summer 2022: Supervised the research of a first-year graduate student, Seth Gagnon, The George Washington University
+* Summer 2021: Supervised the research of a first-year graduate student, Alex van Kooten, The George Washington University
+
+Teaching Experience
+======
+
+* 2019: Secondary Instructor, The George Washington University
+* 2017 - 2019: Graduate Teaching Assistant, The George Washington University
   
