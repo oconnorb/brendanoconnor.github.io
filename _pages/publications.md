@@ -54,37 +54,3 @@ Co-Author
     
 * Dichiara, S., Troja, E., **O'Connor, B.**, Marshall, F. E., et al., 2020. &quot;Short gamma-ray bursts within 200 Mpc&quot;. MNRAS, 492, 5011.
     
-
-First Author (Non-refereed)
-======
-* **O'Connor, B.**, Troja, E., Dichiara, S., Cenko., S. B., 2022. &quot;GRB 220611A: Continued Gemini Infrared Observations&quot;. GCN, 32228.
-
-* **O'Connor, B.**, Troja, E., Dichiara, S., Cenko., S. B., 2022. &quot;GRB220611A: Gemini Optical Afterglow Confirmation&quot;. GCN, 32217.
-    
-* **O'Connor, B.**, Troja, E., Dichiara, S., 2022. &quot;GRB 220611A: Gemini South Infrared Detection&quot;. GCN, 32203. 
-    
-* **O'Connor, B.**, Troja, E., Dichiara, S., 2022. &quot;GRB 220606B: Gemini South Optical Observations&quot;. GCN, 32177. 
-    
-* **O'Connor, B.**, Troja, E., 2022. &quot;Continued Chandra monitoring of GW170817 at 4.8 yr post-merger&quot;. GCN, 32065.
-    
-* **O'Connor, B.**, Cenko., S. B., Troja, E., Dichiara, S., et al., 2022. &quot;GRB 220408A: Lowell Discovery Telescope Optical Observations&quot;. GCN, 31875.
-    
-* **O'Connor, B.**, Troja, E., Gottlieb, A., 2022. &quot;GRB 211227A: Gemini South Optical Observations&quot;. GCN, 31376. 
-    
-* **O'Connor, B.**, Cenko., S. B., Troja, E., Gottlieb, A., et al.,  2022.&quot;GRB 211023B: LDT Optical Afterglow Detection&quot;. GCN, 31000. 
-    
-* **O'Connor, B.**, Hammerstein, E., Cenko, S. B., Troja, E., et al., 2021. &quot;GRB 210919A: LDT optical observations and candidate host galaxies&quot;. GCN, 30934.
-    
-* **O'Connor, B.**, Piro, L., Lotti, S., Ricci, R., Bruni, G., Zhang, B., Panessa, F., 2021. &quot;Further monitoring of FRB 20201124A with Swift&quot;. ATel, 14836.
-    
-* **O'Connor, B.**, Troja, E., Zack, E., Dichiara, S., et al., 2021. &quot;GRB 210704A: Lowell Discovery Telescope Optical Observations&quot;. GCN, 30451. 
-    
-* **O'Connor, B.**, Dichiara, S., Troja, E., Gatkine, P., et al., 2021. &quot;Lowell Discovery Telescope Observations of ZTF21aayokph (AT2021lfa)&quot;. GCN, 29952. 
-    
-* **O'Connor, B.**, Dichiara, S., Troja, E., Gatkine, P., et al., 2021. &quot;GRB 210504A: Lowell Discovery Telescope optical observations&quot;. GCN, 29946.
-    
-* **O'Connor, B.**, Kouveliotou, C., 2021. &quot;Swift/XRT observations of PGIR21fjn/AT2021kgk&quot;. ATel, 14571.
-    
-* **O'Connor, B.**, Piro, L., Lotti, S., Ricci, R., et al., 2021. &quot;Observations of FRB 20201124A with Swift/XRT and UVOT&quot;. ATel, 14525.
-
-* **O'Connor, B.**, Dichiara, S., Troja, E., Cenko., S. B., 2020. &quot;GRB 200522A: Candidate Optical/nIR Counterpart from Gemini and HST Imaging&quot;. GCN, 28100.
