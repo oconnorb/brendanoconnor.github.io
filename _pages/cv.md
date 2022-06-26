@@ -102,59 +102,59 @@ As Co-I:
 **Optical/Infrared**
 
 
-11. HST Cycle 30(PI: E. Troja), Mapping the diversity of kilonovae through rapid Hubble observations of a short gamma-ray burst (GO-17175)
+12. HST Cycle 30(PI: E. Troja), Mapping the diversity of kilonovae through rapid Hubble observations of a short gamma-ray burst (GO-17175)
 
-12. HST Cycle 29 (PI: E. Troja), Identifying the fingerprints of r-process heavy metals in a short GRB (GO-16846)
+13. HST Cycle 29 (PI: E. Troja), Identifying the fingerprints of r-process heavy metals in a short GRB (GO-16846)
 
-13. HST Cycle 25 (PI: E. Troja), Identify the signature of neutron star mergers through rapid Hubble observations of a short GRB (GO-15089)
+14. HST Cycle 25 (PI: E. Troja), Identify the signature of neutron star mergers through rapid Hubble observations of a short GRB (GO-15089)
 
-14. Gemini-South 2021A (PI: E. Troja), Mapping the diversity of neutron star mergers with rapid Gemini observations of short gamma-ray bursts (GS-2021A-Q-102)
+15. Gemini-South 2021A (PI: E. Troja), Mapping the diversity of neutron star mergers with rapid Gemini observations of short gamma-ray bursts (GS-2021A-Q-102)
 
-15. Gemini-North 2021A (PI: E. Troja), Mapping the diversity of neutron star mergers with rapid Gemini observations of short gamma-ray bursts (GN-2021A-Q-103)
+16. Gemini-North 2021A (PI: E. Troja), Mapping the diversity of neutron star mergers with rapid Gemini observations of short gamma-ray bursts (GN-2021A-Q-103)
 
-16. Gemini-North 2020B (PI: E. Troja), Mapping the diversity of neutron star mergers with rapid Gemini observations of short gamma-ray bursts (GN-2020B-Q-102)
+17. Gemini-North 2020B (PI: E. Troja), Mapping the diversity of neutron star mergers with rapid Gemini observations of short gamma-ray bursts (GN-2020B-Q-102)
 
-17. Gemini-South 2020B (PI: E. Troja), Mapping the diversity of neutron star mergers with rapid Gemini observations of short gamma-ray bursts (GS-2020B-Q-101)
+18. Gemini-South 2020B (PI: E. Troja), Mapping the diversity of neutron star mergers with rapid Gemini observations of short gamma-ray bursts (GS-2020B-Q-101)
 
-18. Lowell Discovery Telescope 2022B (PI: S. B. Cenko), Target of Opportunity Transient Follow-Up with LDT
+19. Lowell Discovery Telescope 2022B (PI: S. B. Cenko), Target of Opportunity Transient Follow-Up with LDT
 
-19. Lowell Discovery Telescope 2022B (PI: I. Andreoni), ToO Observations of Gravitational Wave Counterparts in the Fourth LIGO-Virgo-KAGRA Observing Run
+20. Lowell Discovery Telescope 2022B (PI: I. Andreoni), ToO Observations of Gravitational Wave Counterparts in the Fourth LIGO-Virgo-KAGRA Observing Run
 
-20. Lowell Discovery Telescope 2022A (PI: A. Gottlieb), LDT observations of Fast Radio Bursts: counterparts and environment
+21. Lowell Discovery Telescope 2022A (PI: A. Gottlieb), LDT observations of Fast Radio Bursts: counterparts and environment
 
-21. Lowell Discovery Telescope 2022A (PI: Cenko), Target of Opportunity Gamma-Ray Burst Follow-Up with LDT
+22. Lowell Discovery Telescope 2022A (PI: Cenko), Target of Opportunity Gamma-Ray Burst Follow-Up with LDT
 
-22. Lowell Discovery Telescope 2021B (PI: Cenko), Target of Opportunity Gamma-Ray Burst Follow-Up with LDT
+23. Lowell Discovery Telescope 2021B (PI: Cenko), Target of Opportunity Gamma-Ray Burst Follow-Up with LDT
 
-23. Lowell Discovery Telescope 2021B (PI: S. Dichiara), Gamma-ray bursts and their host environments
+24. Lowell Discovery Telescope 2021B (PI: S. Dichiara), Gamma-ray bursts and their host environments
 
-24. Lowell Discovery Telescope 2021B (PI: E. Troja), LDT observations of Fast Radio Bursts: counterparts and environment
+25. Lowell Discovery Telescope 2021B (PI: E. Troja), LDT observations of Fast Radio Bursts: counterparts and environment
 
-25. Lowell Discovery Telescope 2021A (PI: S. Dichiara), Gamma-ray bursts and their host environments
+26. Lowell Discovery Telescope 2021A (PI: S. Dichiara), Gamma-ray bursts and their host environments
 
-26. Lowell Discovery Telescope 2021A (PI: E. Troja), LDT observations of Fast Radio Bursts: counterparts and environment
+27. Lowell Discovery Telescope 2021A (PI: E. Troja), LDT observations of Fast Radio Bursts: counterparts and environment
 
 **Radio**
 
-27. VLA 2021B (PI: E. Troja), The collimation and energetics of short gamma-ray bursts
+28. VLA 2021B (PI: E. Troja), The collimation and energetics of short gamma-ray bursts
 
-28. VLA 2021B (PI: E. Troja), Beyond the GRB jet: searching for the remnant of a neutron star merger
+29. VLA 2021B (PI: E. Troja), Beyond the GRB jet: searching for the remnant of a neutron star merger
 
-29. VLA 2021A (PI E. Troja), Beyond the GRB jet: searching for the remnant of a neutron star merger
+30. VLA 2021A (PI E. Troja), Beyond the GRB jet: searching for the remnant of a neutron star merger
 
-30. ATCA 2022 (PI: R. Ricci), Characterizing the spectral behaviour of the Persistent Radio Emission of a Fast Radio Burst
+31. ATCA 2022 (PI: R. Ricci), Characterizing the spectral behaviour of the Persistent Radio Emission of a Fast Radio Burst
 
-31. GMRT Cycle 42 (PI: G. Bruni), Spectral characterization of the persistent radio emission in fast radio bursts
+32. GMRT Cycle 42 (PI: G. Bruni), Spectral characterization of the persistent radio emission in fast radio bursts
 
-32. GMRT DDT (PI: G. Bruni), Characterising starburst activity in the host of the repeating FRB 20201124A
+33. GMRT DDT (PI: G. Bruni), Characterising starburst activity in the host of the repeating FRB 20201124A
 
-33. EVN (PI: G. Bruni), Characterising the progenitors of fast radio bursts with the EVN (EB094/E21C017)
+34. EVN (PI: G. Bruni), Characterising the progenitors of fast radio bursts with the EVN (EB094/E21C017)
 
-34. EVN DDT (PI: F. Panessa), Disclosing the nature of the persistent radio source associated to FRB20201124A
+35. EVN DDT (PI: F. Panessa), Disclosing the nature of the persistent radio source associated to FRB20201124A
 
-35. e-MERLIN Cycle 13 (PI: G. Bruni), Characterising the progenitors of fast radio bursts with e-MERLIN
+36. e-MERLIN Cycle 13 (PI: G. Bruni), Characterising the progenitors of fast radio bursts with e-MERLIN
 
-36. e-MERLIN DDT (PI: G. Bruni), Disclosing the nature of the persistent radio source associated to FRB 20201124A with e-MERLIN
+37. e-MERLIN DDT (PI: G. Bruni), Disclosing the nature of the persistent radio source associated to FRB 20201124A with e-MERLIN
 
 
 
