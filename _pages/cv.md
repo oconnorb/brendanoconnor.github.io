@@ -45,7 +45,7 @@ Professional Memberships
 Accepted Telescope Proposals
 ======
 
-**As of June 25, 2022:** I am the PI of 8 accepted telescope proposals. I am Co-I of another 36 accepted proposals.  
+**As of June 25, 2022:** I am the PI of 8 accepted telescope proposals. I am Co-I of another 38 accepted proposals.  
 
 These proposals have been awarded time on the following telescopes and observatories: Swift, Fermi, NuSTAR, NICER, Chandra, Hubble Space Telescope, Lowell Discovery Telescope, Gemini, ATCA, VLA, uGMRT, e-MERLIN, EVN 
 
@@ -142,25 +142,29 @@ As Co-I:
 
 **Radio**
 
-28. VLA 2021B (PI: E. Troja), The collimation and energetics of short gamma-ray bursts
+28. VLA 2022B (PI: E. Troja), The collimation and energetics of short gamma-ray bursts
 
-29. VLA 2021B (PI: E. Troja), Beyond the GRB jet: searching for the remnant of a neutron star merger
+29. VLA 2022B (PI: S. Chastain), Electromagnetic counterparts of gravitational wave events
 
-30. VLA 2021A (PI E. Troja), Beyond the GRB jet: searching for the remnant of a neutron star merger
+30. VLA 2021B (PI: E. Troja), The collimation and energetics of short gamma-ray bursts
 
-31. ATCA 2022 (PI: R. Ricci), Characterizing the spectral behaviour of the Persistent Radio Emission of a Fast Radio Burst
+31. VLA 2021B (PI: E. Troja), Beyond the GRB jet: searching for the remnant of a neutron star merger
 
-32. GMRT Cycle 42 (PI: G. Bruni), Spectral characterization of the persistent radio emission in fast radio bursts
+32. VLA 2021A (PI E. Troja), Beyond the GRB jet: searching for the remnant of a neutron star merger
 
-33. GMRT DDT (PI: G. Bruni), Characterising starburst activity in the host of the repeating FRB 20201124A
+33. ATCA 2022 (PI: R. Ricci), Characterizing the spectral behaviour of the Persistent Radio Emission of a Fast Radio Burst
 
-34. EVN (PI: G. Bruni), Characterising the progenitors of fast radio bursts with the EVN (EB094/E21C017)
+34. GMRT Cycle 42 (PI: G. Bruni), Spectral characterization of the persistent radio emission in fast radio bursts
 
-35. EVN DDT (PI: F. Panessa), Disclosing the nature of the persistent radio source associated to FRB20201124A
+35. GMRT DDT (PI: G. Bruni), Characterising starburst activity in the host of the repeating FRB 20201124A
 
-36. e-MERLIN Cycle 13 (PI: G. Bruni), Characterising the progenitors of fast radio bursts with e-MERLIN
+36. EVN (PI: G. Bruni), Characterising the progenitors of fast radio bursts with the EVN (EB094/E21C017)
 
-37. e-MERLIN DDT (PI: G. Bruni), Disclosing the nature of the persistent radio source associated to FRB 20201124A with e-MERLIN
+37. EVN DDT (PI: F. Panessa), Disclosing the nature of the persistent radio source associated to FRB20201124A
+
+38. e-MERLIN Cycle 13 (PI: G. Bruni), Characterising the progenitors of fast radio bursts with e-MERLIN
+
+39. e-MERLIN DDT (PI: G. Bruni), Disclosing the nature of the persistent radio source associated to FRB 20201124A with e-MERLIN
 
 
 Mentoring Experience
