@@ -41,14 +41,14 @@ Accepted Telescope Proposals
 
 **As of June 25, 2022:** I am the PI of 8 accepted telescope proposals. I am Co-I of another 36 accepted proposals.  
 
-These proposals have been awarded time on the following telescopes and observatories: Swift, Fermi, NICER, NuSTAR, Chandra, Hubble Space Telescope, Lowell Discovery Telescope, Gemini, Keck, ATCA, VLA, uGMRT, e-MERLIN, EVN 
+These proposals have been awarded time on the following telescopes and observatories: Fermi, NICER, Chandra, Hubble Space Telescope, Lowell Discovery Telescope, Gemini, ATCA, VLA, uGMRT, e-MERLIN, EVN 
 
 As PI:
 ------
 
 **X-ray**
 
-1. Chandra Cycle 23 Award, The collimation and energetics of short GRBs: searching for jet-breaks with Chandra, Awarded 80 ks (2 ToOs) $ 66,792
+1. Chandra Cycle 23 Award, The collimation and energetics of short GRBs: searching for jet-breaks with Chandra, Awarded 80 ks (2 ToOs) - $66,792
 
 **Optical/Infrared**
 
