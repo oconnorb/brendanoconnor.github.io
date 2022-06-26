@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 6th year graduate student in the Department of Physics at The George Washington University (GWU). My research is in the field of time domain and transient astrophysics. In particular, I am interested in the formation and evolution of high energy transients and their progenitors. 
+I am a 6th year graduate student in the Department of Physics at The George Washington University (GWU). My research is in the field of time domain and transient astrophysics. In particular, I am interested in the formation and evolution of high energy transients and their progenitors. I use a variety of optical, infrared, and X-ray observatories to study gamma-ray bursts, kilonovae, compact objects, X-ray binaries, cataclysmic variables, fast radio bursts, and gravitational wave sources across the electromagnetic spectrum. 
 
 More Information
 ======
