@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+Hi, I'm Brendan. I'm an observational astronomer studying cosmic explosions.
+
 I am a 6th year graduate student in the Department of Physics at The George Washington University (GWU). My research is in the field of time domain and transient astrophysics. In particular, I am interested in the formation and evolution of high energy transients and their progenitors. I use a variety of optical, infrared, and X-ray observatories to study these transients across the electromagnetic spectrum. My interest is quite broad, covering a diversity of extragalactic phenomena, such as gamma-ray bursts, kilonovae, fast radio bursts, and gravitational wave sources, as well as Galactic compact objects, X-ray binaries, and cataclysmic variables.
 
 More Information
