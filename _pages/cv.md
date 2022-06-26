@@ -36,6 +36,12 @@ Professional Experience
 * 2017 - 2019: Graduate Teaching Assistant
   * The George Washington University
 
+Professional Memberships
+======
+* 2020 -  present: The Swift Deep Galactic Plane Survey
+* 2020 -  present: The Gamow Explorer Science Team
+* 2020 -  present: The MeerKAT Galactic Plane Survey
+
 Accepted Telescope Proposals
 ======
 
@@ -102,7 +108,7 @@ As Co-I:
 **Optical/Infrared**
 
 
-12. HST Cycle 30(PI: E. Troja), Mapping the diversity of kilonovae through rapid Hubble observations of a short gamma-ray burst (GO-17175)
+12. HST Cycle 30 (PI: E. Troja), Mapping the diversity of kilonovae through rapid Hubble observations of a short gamma-ray burst (GO-17175)
 
 13. HST Cycle 29 (PI: E. Troja), Identifying the fingerprints of r-process heavy metals in a short GRB (GO-16846)
 
@@ -156,24 +162,6 @@ As Co-I:
 
 37. e-MERLIN DDT (PI: G. Bruni), Disclosing the nature of the persistent radio source associated to FRB 20201124A with e-MERLIN
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-Professional Memberships
-======
-* 2020 -  present: The Swift Deep Galactic Plane Survey
-* 2020 -  present: The Gamow Explorer Science Team
-* 2020 -  present: The MeerKAT Galactic Plane Survey
 
 Mentoring Experience
 ======
