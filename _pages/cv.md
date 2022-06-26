@@ -41,7 +41,7 @@ Accepted Telescope Proposals
 
 **As of June 25, 2022:** I am the PI of 8 accepted telescope proposals. I am Co-I of another 36 accepted proposals.  
 
-These proposals have been awarded time on the following telescopes and observatories: Fermi, NICER, Chandra, Hubble Space Telescope, Lowell Discovery Telescope, Gemini, ATCA, VLA, uGMRT, e-MERLIN, EVN 
+These proposals have been awarded time on the following telescopes and observatories: Swift, Fermi, NuSTAR, NICER, Chandra, Hubble Space Telescope, Lowell Discovery Telescope, Gemini, ATCA, VLA, uGMRT, e-MERLIN, EVN 
 
 As PI:
 ------
@@ -50,21 +50,23 @@ As PI:
 
 1. Chandra Cycle 23 Award, The collimation and energetics of short GRBs: searching for jet-breaks with Chandra, Awarded 80 ks (2 ToOs) - $66,792
 
+2. Swift Target of Opportunity, Successfully requested 21 Swift ToOs of Galactic X-ray sources identified through the Swift Deep Galactic Plane Survey
+
 **Optical/Infrared**
 
-2. Gemini-North 2022B, Identifying the fingerprints of r-process heavy metals in a short GRB, Awarded 9.5 hr of Rapid ToO (GN-2022B-Q-130)
+3. Gemini-North 2022B, Identifying the fingerprints of r-process heavy metals in a short GRB, Awarded 9.5 hr of Rapid ToO (GN-2022B-Q-130)
 
-3. Gemini-South 2022B, Identifying the fingerprints of r-process heavy metals in a short GRB, Awarded 9.5 hr of Rapid ToO (GS-2022B-Q-134)
+4. Gemini-South 2022B, Identifying the fingerprints of r-process heavy metals in a short GRB, Awarded 9.5 hr of Rapid ToO (GS-2022B-Q-134)
 
-4. Gemini-South 2022B, Off-axis afterglows from compact binary mergers, Awarded 8.5 hr of Rapid ToO (GS-2022B-Q-232)
+5. Gemini-South 2022B, Off-axis afterglows from compact binary mergers, Awarded 8.5 hr of Rapid ToO (GS-2022B-Q-232)
 
-5. Gemini-South 2022A, Identifying the fingerprints of r-process heavy metals in a short GRB, Awarded 9.5 hr of Rapid ToO (GS-2022A-Q-141)
+6. Gemini-South 2022A, Identifying the fingerprints of r-process heavy metals in a short GRB, Awarded 9.5 hr of Rapid ToO (GS-2022A-Q-141)
 
-6. Gemini-South Director’s Discretionary Time, Probing the unusual long GRB 211227A with Gemini, Awarded 2.1 hr of Rapid ToO
+7. Gemini-South Director’s Discretionary Time, Probing the unusual long GRB 211227A with Gemini, Awarded 2.1 hr of Rapid ToO
 
-7. Lowell Discovery Telescope 2022B (Co-PI), Classically Scheduled Imaging and Spectroscopy of Transients and Their Host Galaxies – Awarded 5 full nights
+8. Lowell Discovery Telescope 2022B (Co-PI), Classically Scheduled Imaging and Spectroscopy of Transients and Their Host Galaxies – Awarded 5 full nights
 
-8. Lowell Discovery Telescope 2022A, Gamma-ray bursts and their host environments, Awarded 4 half-nights
+9. Lowell Discovery Telescope 2022A, Gamma-ray bursts and their host environments, Awarded 4 half-nights
 
 
 
@@ -94,6 +96,8 @@ As Co-I:
 9. NICER Cycle 4 (PI: C. Kouveliotou), NICER ToO observations of Swift/XRT Deep Galactic Plane Survey (DGPS) sources
 
 10. NICER Cycle 3 (PI: C. Kouveliotou), NICER ToO observations of Swift/XRT Deep Galactic Plane Survey (DGPS) sources
+
+11. NuSTAR Director’s Discretionary Time (PI: C. Kouveliotou), Swift Galactic Plane Survey Key Project – Utilized 9 NuSTAR DDTs of Galactic X-ray sources identified through the Swift Deep Galactic Plane Survey. The Survey was a NuSTAR Legacy Survey Program until 2019
 
 **Optical/Infrared**
 
