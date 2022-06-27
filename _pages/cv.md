@@ -45,7 +45,7 @@ Professional Memberships
 Accepted Telescope Proposals
 ======
 
-**As of June 25, 2022:** I am the PI of 8 accepted telescope proposals. I am Co-I of another 40 accepted proposals.  
+**As of June 25, 2022:** I am the PI of 8 accepted telescope proposals. I am Co-I of another 44 accepted proposals.  
 
 These proposals have been awarded time on the following telescopes and observatories: Swift, Fermi, NuSTAR, NICER, Chandra, Hubble Space Telescope, Lowell Discovery Telescope, Gemini, ATCA, VLA, uGMRT, e-MERLIN, EVN 
 
@@ -70,9 +70,17 @@ As PI:
 
 7. Gemini-South Director’s Discretionary Time, Probing the unusual long GRB 211227A with Gemini, Awarded 2.1 hr of Rapid ToO
 
-8. Lowell Discovery Telescope 2022B (Co-PI), Classically Scheduled Imaging and Spectroscopy of Transients and Their Host Galaxies – Awarded 5 full nights
+8. Gemini-North 2022B (PI: M. Im)	Long-term Monitoring in Optical/NIR of Gravitational-wave Sources (GN-2022B-Q-117)
 
-9. Lowell Discovery Telescope 2022A, Gamma-ray bursts and their host environments, Awarded 4 half-nights
+9. Gemini-North 2022B (PI: M. Im)	Optical/NIR Follow-up Observation of Gravitational-Wave Sources (GN-2022B-Q-118)
+
+10. Gemini-South 2022B (PI: M. Im)	Optical/NIR Follow-up Observation of Gravitational-Wave Sources (GS-2022B-Q-119)
+
+11. Gemini-South 2022B (PI: M. Im)	Long-term Monitoring in Optical/NIR of Gravitational-wave Sources (GS-2022B-Q-120)
+
+12. Lowell Discovery Telescope 2022B (Co-PI), Classically Scheduled Imaging and Spectroscopy of Transients and Their Host Galaxies – Awarded 5 full nights
+
+13. Lowell Discovery Telescope 2022A, Gamma-ray bursts and their host environments, Awarded 4 half-nights
 
 
 
