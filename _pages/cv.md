@@ -45,7 +45,7 @@ Professional Memberships
 Accepted Telescope Proposals
 ======
 
-**As of June 25, 2022:** I am the PI of 8 accepted telescope proposals. I am Co-I of another 39 accepted proposals.  
+**As of June 25, 2022:** I am the PI of 8 accepted telescope proposals. I am Co-I of another 40 accepted proposals.  
 
 These proposals have been awarded time on the following telescopes and observatories: Swift, Fermi, NuSTAR, NICER, Chandra, Hubble Space Telescope, Lowell Discovery Telescope, Gemini, ATCA, VLA, uGMRT, e-MERLIN, EVN 
 
